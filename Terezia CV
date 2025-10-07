@@ -1,0 +1,84 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Terezia Minarikova - CV</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 2rem;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+    h1 {
+      margin: 0;
+    }
+    section {
+      margin-bottom: 2rem;
+    }
+    .section-title {
+      font-size: 1.2rem;
+      font-weight: bold;
+      border-bottom: 2px solid #ccc;
+      margin-bottom: 1rem;
+    }
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    li {
+      margin-bottom: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Terezia Minarikova</h1>
+    <p>Senior Advisor, Finance Operations | Remote - Slovakia</p>
+  </header>
+
+  <section>
+    <div class="section-title">Professional Summary</div>
+    <p>Experienced finance operations advisor with a strong background in strategic planning, process optimization, and cross-functional collaboration.</p>
+  </section>
+
+  <section>
+    <div class="section-title">Experience</div>
+    <ul>
+      <li><strong>Senior Advisor, Finance Operations</strong> - [Company Name]</li>
+      <li><strong>Manager:</strong> Gombkoto, Oto</li>
+      <li><strong>Skip Manager:</strong> Smyth, Michael</li>
+    </ul>
+  </section>
+
+  <section>
+    <div class="section-title">Education</div>
+    <ul>
+      <li><strong>[Degree]</strong> - [University Name], [Year]</li>
+    </ul>
+  </section>
+
+  <section>
+    <div class="section-title">Skills</div>
+    <ul>
+      <li>Financial Analysis</li>
+      <li>Process Improvement</li>
+      <li>Stakeholder Management</li>
+      <li>ERP Systems</li>
+    </ul>
+  </section>
+
+  <section>
+    <div class="section-title">Contact</div>
+    <p>Email: [your.email@example.com]</p>
+    <p>LinkedIn: [Your LinkedIn URL]</p>
+  </section>
+</body>
+</html>
